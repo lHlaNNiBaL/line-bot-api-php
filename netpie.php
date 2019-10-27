@@ -2,7 +2,7 @@
 	function pubMqtt($topic,$msg){
 		$APPID= "TungIoT/"; //enter your appid
 		$KEY = "OOMyqdjNvApUp8B"; //enter your web key
-		$SECRET = "232UYsj5yc66Hyq"; //enter your secret
+		$SECRET = "g7HI5WBqjzFbvL2CXevWcYu2X"; //enter your secret
 		$Topic = "$topic";
 		if($msg =="on"){
 			$msg = "1";
